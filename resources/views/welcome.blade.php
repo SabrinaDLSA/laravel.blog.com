@@ -18,7 +18,7 @@
 <header>
   <div class="blur">
     <div class="GoogleFonts" id="title">
-          Prueba de Mi Primer Blog En Laravel
+          Prueba de Mi Primer Blog En Laravel Hello
     </div>
     <div class="GoogleFonts" id='subtitle'>
           Articles about, well lots of things.....
